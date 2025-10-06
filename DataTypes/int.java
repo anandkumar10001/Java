@@ -14,7 +14,19 @@ public class ByteExample {
         short num2 = 32767;  //max
         System.out.println("num1: " + num1);
         System.out.println("num2: " + num2);
-    
+  
+//Int
+        int x = 100;
+        int y = 25;
+        int sum = x + y;
+        System.out.println("x = " + x);
+        System.out.println("y = " + y);
+        System.out.println("Sum = " + sum);  
+    }
+}
+public class IntExample {
+    public static void main(String[] args) {
+        
     }
 }
 
